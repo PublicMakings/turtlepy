@@ -1,4 +1,7 @@
 # turtlepy
+9/8/2017: https://pigeonpythonturtle.tumblr.com - updated to post to tumblr when finished. the svg to png converter is awful, but it works.
+
+
 more automated drawings using python and turtle
 
 outputs a widescreen vector file suited for two 1920x1080 monitors
